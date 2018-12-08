@@ -1,0 +1,33 @@
+* {border-collapse:collapse;
+	margin:0;
+	padding:0;
+	}
+	
+html{
+	margin:0px;
+	padding:0px;	
+	height:100%;
+	overflow:auto;
+	}
+	
+body{
+	margin:0px;
+	padding:0px;
+	height:100%;
+	overflow:auto;
+	}
+#conteiner{
+	position:relative;
+	margin: 0 auto;
+	overflow:hidden;
+	min-height:100%;
+	padding:0;
+	perspective:300px;
+	}
+#block1{
+	width:200px;
+	height:400px;
+	background:black;
+	margin-top:100px;
+	margin-left:200px;
+	}
